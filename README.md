@@ -13,5 +13,3 @@ The project demonstrates clean architecture with modular routers, async database
 - Interactive API docs with Swagger UI (`/docs`) and ReDoc (`/redoc`)
 
 ---
-
-## 📂 Project Structure
