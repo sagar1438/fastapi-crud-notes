@@ -1,4 +1,4 @@
-# 📝 FastAPI CRUD Notes
+# 📝 FastAPI CRUD Notes 
 
 A simple **CRUD API** built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL** to manage notes.  
 The project demonstrates clean architecture with modular routers, async database queries, and Pydantic validation.
